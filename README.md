@@ -23,3 +23,7 @@ JavaScript is used for basic interactivity such as toggling mobile navigation, h
 This E-learning platform UI demonstrates the core skills of front-end development and web design. It is intended as a template or foundation for more advanced systems involving user authentication, video lectures, progress tracking, quizzes, and content management. It is lightweight, customizable, and serves as a portfolio piece to showcase the developer’s ability to create elegant, responsive web interfaces from scratch.
 
 In conclusion, this project fulfills the requirements of CODTECH Task-4 by presenting a fully responsive and styled front-end layout for an E-learning platform. It highlights essential design patterns and usability principles expected in a modern web-based educational system.
+
+![Image](https://github.com/user-attachments/assets/f3f9701b-5589-41d5-a517-0c0e1cabc43b)
+![Image](https://github.com/user-attachments/assets/d26fa7fa-7403-4aa3-87e5-9f5325780715)
+![Image](https://github.com/user-attachments/assets/085047d8-1219-42f8-a0f4-9b70e69b1547)
